@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConvertNumber:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConvertNumber_jar</output-path>
+    <root id="archive" name="ConvertNumber.jar">
+      <element id="module-output" name="ConvertNumber" />
+    </root>
+  </artifact>
+</component>
